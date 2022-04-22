@@ -278,3 +278,7 @@ defaults:
       related: true
       sidebar:
         nav: "categories"
+
+sass:
+  sass_dir: _sass
+  style: compressed
